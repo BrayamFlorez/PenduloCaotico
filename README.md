@@ -3,6 +3,7 @@ Descripción General del Código:
 El código simula un péndulo doble bajo el efecto de la gravedad y muestra la animación de las oscilaciones de los péndulos.
 Utiliza las ecuaciones de movimiento de un péndulo doble para resolver numéricamente las posiciones de los péndulos en función del tiempo.
 La animación muestra las trayectorias seguidas por los extremos de ambos péndulos en el plano mientras se mueven.
+
 Variables que se pueden alterar:
 
 g: Aceleración debido a la gravedad. Puedes cambiar este valor para simular el péndulo en diferentes condiciones de gravedad.
